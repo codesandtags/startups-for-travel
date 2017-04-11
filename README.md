@@ -4,10 +4,28 @@ This is a compilation on the state of the art in companies which work with trave
 
 ## Travels
 
-| Company   | Description | Category | Headquarters | URL CrunchBase | 
-| --------- | ----------- | -------- | ------------ | -------------- | 
-|           |             |          |              |                | 
-
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Description</th>
+      <th>Category</th>
+      <th>Headquarters</th>
+      <th>Founded</th>
+      <th>URLs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://tripadvisor.com">TripAdvisor</a></td>
+      <td>TripAdvisor is the world's largest travel site, enabling travelers to plan and book the perfect trip.</td>
+      <td>E-Commerce, Restaurants, Travel</td>
+      <td>Needham, Massachusetts</td>
+      <td>February 1, 2000</td>
+      <td><a href="https://www.crunchbase.com/organization/tripadvisor#/entity">CrunchBase</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Photography
 
