@@ -11,15 +11,53 @@ This is a compilation on the state of the art in companies which work with trave
 
 ## Photography
 
-| Company   | Description | Category | Headquarters | URL CrunchBase | 
-| --------- | ----------- | -------- | ------------ | -------------- | 
-|           |             |          |              |                | 
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Description</th>
+      <th>Category</th>
+      <th>Headquarters</th>
+      <th>Founded</th>
+      <th>URLs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://instagram.com" target="_blank">Instagram</a></td>
+      <td>Instagram is a free photo sharing application that enables its users to take photos, apply filters, and share them on social networks.</td>
+      <td>Photography, Social Media, Photo Sharing, Mobile</td>
+      <td>Menlo Park, California</td>
+      <td>June 2, 2010</td>
+      <td><a href="https://www.crunchbase.com/organization/instagram#/entity" target="_blank">CrunchBase</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Lodging
 
-| Company   | Description | Category | Headquarters | URLs Info / Investment | 
-| --------- | ----------- | -------- | ------------ | -------------- | 
-| [Airbnb](https://www.airbnb.com/)  | Airbnb is an online community marketplace for people to list, discover, and book accommodations around the world. |  Marketplace, Travel, Travel Accommodations, Sharing Economy, Hospitality  |  San Francisco, CA  | [Link](https://www.crunchbase.com/organization/airbnb#/entity) | 
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Description</th>
+      <th>Category</th>
+      <th>Headquarters</th>
+      <th>Founded</th>
+      <th>URLs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.airbnb.com/" target="_blank">Airbnb</a></td>
+      <td>Airbnb is an online community marketplace for people to list, discover, and book accommodations around the world.</td>
+      <td>Marketplace, Travel, Travel Accommodations, Sharing Economy, Hospitality</td>
+      <td>San Francisco, CA</td>
+      <td>August 1, 2008</td>
+      <td><a href="https://www.crunchbase.com/organization/airbnb#/entity" target="_blank">CrunchBase</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Tools for startups / Crowdfunding / Statistics
 
