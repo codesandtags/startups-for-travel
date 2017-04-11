@@ -17,9 +17,9 @@ This is a compilation on the state of the art in companies which work with trave
 
 ## Lodging
 
-| Company   | Description | Category | Headquarters | URL CrunchBase | 
+| Company   | Description | Category | Headquarters | URLs Info / Investment | 
 | --------- | ----------- | -------- | ------------ | -------------- | 
-| [Airbnb](https://www.airbnb.com/)  | Airbnb is an online community marketplace for people to list, discover, and book accommodations around the world. |  Marketplace, Travel, Travel Accommodations, Sharing Economy, Hospitality  |  San Francisco, CA  | https://www.crunchbase.com/organization/airbnb#/entity | 
+| [Airbnb](https://www.airbnb.com/)  | Airbnb is an online community marketplace for people to list, discover, and book accommodations around the world. |  Marketplace, Travel, Travel Accommodations, Sharing Economy, Hospitality  |  San Francisco, CA  | [Link](https://www.crunchbase.com/organization/airbnb#/entity) | 
 
 ## Tools for startups / Crowdfunding / Statistics
 
