@@ -77,6 +77,13 @@ This is a compilation on the state of the art in companies which work with trave
   </tbody>
 </table>
 
+## startups fundamentals
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Elevator Pitch questions  | https://unimooc.com/que-es-un-elevator-pitch/  | 
+
+
 ## Tools for startups / Crowdfunding / Statistics
 
 | Description   | URL           | 
@@ -84,3 +91,4 @@ This is a compilation on the state of the art in companies which work with trave
 | gofundme  | https://www.gofundme.com/  | 
 | kickstarter  | https://www.kickstarter.com/ | 
 | List of invesment in Startups | https://www.crunchbase.com/#/home/index |
+
