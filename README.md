@@ -82,7 +82,7 @@ This is a compilation on the state of the art in companies which work with trave
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Elevator Pitch questions  | https://unimooc.com/que-es-un-elevator-pitch/  | 
-
+| Canvas Online  | https://canvanizer.com/  | 
 
 ## Tools for startups / Crowdfunding / Statistics
 
