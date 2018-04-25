@@ -24,6 +24,22 @@ This is a compilation on the state of the art in companies which work with trave
       <td>February 1, 2000</td>
       <td><a href="https://www.crunchbase.com/organization/tripadvisor#/entity">CrunchBase</a></td>
     </tr>
+    <tr>
+      <td><a href="https://get.google.com/trips/">Google Trips</a></td>
+      <td>Google Trips makes it easier than ever to plan and organize your trips. It automatically maps out a half day or a full day with suggestions for things to see and do</td>
+      <td>Travel, Advices</td>
+      <td>USA</td>
+      <td>N/A</td>
+      <td><a href="https://get.google.com/trips/">Official Page</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.google.es/flights">Google Flights</a></td>
+      <td>Find cheap flights and airline tickets. Google Flights helps you compare and track airfares on hundreds of airlines to help you find the best flight deals.</td>
+      <td>Travel, Flights, Predictions Models</td>
+      <td>USA</td>
+      <td>N/A</td>
+      <td><a href="https://www.google.es/flights">Official Page</a></td>
+    </tr>
   </tbody>
 </table>
 
